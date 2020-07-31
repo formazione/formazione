@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## My blog is here
-https://pythonprogramming.altervista.orfg
+https://pythonprogramming.altervista.org
 
 # What do I do?
 
